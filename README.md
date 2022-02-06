@@ -3,6 +3,6 @@ MJ Simpson, RE Baker, PR Buenzli, R Nicholson, OJ Maclaren (2022). Reliable and 
 
 Folder Stochastic contains codes to replicate Figure 1
 
-Folder StochasticContinuum contains codes to replicate Figures 2-3
+Folder Continuum contains codes to replicate Figures 2-3
 
 Folder Inference contains codes to replicate the remaining results.
